@@ -109,7 +109,9 @@ Components:
   - 1x The spring from a biro, to go around the M3x30 bolt.
   - 1x Blower fan (same as for Hypercube)
   - 1x 30mm Fan, no more than 10mm deep
-  - 4x No4 (2.9mm dia) x 19mm (3/4") self tapping screws (to mount the 30mm fan)
+  - 5x No4 (2.9mm dia) x 19mm (3/4") self tapping screws
+    - 4x to mount the 30mm fan
+    - 1x to mount the duct to the base
   - 4x 2.5mm cable ties
   - (optional) Cable braiding and heatshrink to taste.
   - (optional) 2x MPX M6 connectors (if using these to make the extruders
