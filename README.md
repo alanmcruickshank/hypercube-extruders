@@ -3,6 +3,8 @@ Direct drive and Bowden swappable extruders for the Hypercube design of printer.
 
 Also available on thingiverse: http://www.thingiverse.com/thing:3761366
 
+More details on the design rationale of the direct drive extruder here: http://designingoverload.com/2019/07/21/new-hypercube-extruder-designs/
+
 ![Image of both toolheads](/img/both-front.jpg "Image of both toolheads")
 
 ### Background
