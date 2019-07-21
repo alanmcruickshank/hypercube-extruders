@@ -34,6 +34,8 @@ Given that these components will be near *heat*, I strongly recomment printing i
 than PLA. All of these parts have been printed at .2mm layer heights and have worked fine.
 Some post processing/cleanup on holes may be required.
 
+The OpenSCAD files also depend on the chamfered primitives library: https://www.thingiverse.com/thing:1305888
+
 ### Bowden
 
 This is really just the hotend, you'll need your own extruder. I use the compact bowden extruder
