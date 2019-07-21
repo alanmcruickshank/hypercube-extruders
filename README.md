@@ -1,5 +1,7 @@
 # Hypercube Extruders
-Direct drive and Bowden swappable extruders for the Hypercube design of printer
+Direct drive and Bowden swappable extruders for the Hypercube design of printer.
+
+Also available on thingiverse: http://www.thingiverse.com/thing:3761366
 
 ![Image of both toolheads](/img/both-front.jpg "Image of both toolheads")
 
@@ -114,3 +116,20 @@ Components:
     swappable as recommended by Tech2C)
     - One for the same configuration as the bowden setup, one for a
       line to the stepper motor
+
+### Mounting Point (2020 extrusion)
+
+If you've got two print heads, it's useful to have somewhere to put the ones you're not using. This is a simple solution to that problem.
+
+![Image of mount](/img/mount.jpg)
+
+![Image of mounted extruders](/img/mounted-extruders.jpg)
+
+Components:
+- Printed
+  - 1x `mount`
+- Non Printed
+  - 1x M5x8 bolt
+  - 1x M5 T-nut
+  - 2x M3 full nuts
+  - 2x M3x10 Socket Head screws
